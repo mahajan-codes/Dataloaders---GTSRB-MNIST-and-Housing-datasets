@@ -1,6 +1,6 @@
 # Dataloaders---GTSRB-MNIST-and-Housing-datasets
 
-#MNIST DATASET:
+# MNIST DATASET:
 Testing accuracy - 98.30%
 Training accuracy - 98.04%
 Training Loss: 0.0845
